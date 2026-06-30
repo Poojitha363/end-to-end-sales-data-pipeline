@@ -217,7 +217,7 @@ Returns top selling products.
 ## 1 Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/end-to-end-data-pipeline.git
+git clone https://github.com/Poojitha363/end-to-end-data-pipeline.git
 ```
 
 ---
